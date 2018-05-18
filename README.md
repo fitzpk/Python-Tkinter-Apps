@@ -5,7 +5,7 @@ Geo-spatial Python Applications Built using Tkinter
 
 Using a Tkinter GUI, this application takes GeoJSON polygon data (Features or Feature Collections) and calculates the area (km2) and perimeter (km) of each polygon within the given data file. The option to export the results is also provided.
 
-Sample GeoJSON Data:<br>
+<h2>Sample GeoJSON Data:<h2><br>
 `{`<br>
   `"type": "FeatureCollection",`<br>
   `"features": [`<br>
@@ -36,11 +36,11 @@ Sample GeoJSON Data:<br>
   ]
 }`
 
-GUI Interface:
+<h2>GUI Interface:<h2>
 
 <img src="https://github.com/fitzpk/Python-Tkinter-Apps/blob/master/images/geocalc-gui.png"/>
 
-Output Text File:
+<h2>Output Text File:<h2>
 
 <img src="https://github.com/fitzpk/Python-Tkinter-Apps/blob/master/images/geocalc-output.png"/>
 
