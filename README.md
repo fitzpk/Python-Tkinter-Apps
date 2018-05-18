@@ -5,12 +5,12 @@ Geo-spatial Python Applications Built using Tkinter
 
 Using a Tkinter GUI, this application takes GeoJSON polygon data (Features or Feature Collections) and calculates the area and perimeter of each polygon within the given data file.
 
-Sample Data:
+Sample GeoJSON Data:
 `Stuff Here`
 
 
 
 # App #2 - GeoJSON Point-in-Sample Area Analyzer
 
-Sample Data:
+Sample GeoJSON Data:
 `Stuff Here`
