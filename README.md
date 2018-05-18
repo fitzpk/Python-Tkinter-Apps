@@ -118,7 +118,6 @@ Using a Tkinter GUI, this application prompts the User to define a simple square
 Below is an example of the results when using Colorado as the sample area
 
 <img src="https://github.com/fitzpk/Python-Tkinter-Apps/blob/master/images/point-in-area-gui.png"/>
-<img src="https://github.com/fitzpk/Python-Tkinter-Apps/blob/master/images/point-in-area-gui.png"/>
 
 <h4>Output Text File:</h4>
 
