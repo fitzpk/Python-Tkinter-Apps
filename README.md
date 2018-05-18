@@ -6,17 +6,17 @@ Geo-spatial Python Applications Built using Tkinter
 Using a Tkinter GUI, this application takes GeoJSON polygon data (Features or Feature Collections) and calculates the area (km2) and perimeter (km) of each polygon within the given data file. The option to export the results is also provided.
 
 <h4>Sample GeoJSON Data:<h4>
-`{
-  "type": "FeatureCollection",`
-  `"features": [`<br>
-    `{`<br>
-     ` "type": "Feature",`<br>
-      `"properties": {`<br>
-	`"name": "Wyoming"`<br>
-	`},`<br>
-      `"geometry": {`<br>
-        `"type": "Polygon",`<br>
-	`"coordinates":[[
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	"name": "Wyoming"
+	},
+      "geometry": {
+        "type": "Polygon",
+	"coordinates":[[
 	[-109.080842,45.002073],
 	[-105.91517,45.002073],
 	[-104.058488,44.996596],
