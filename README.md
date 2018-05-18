@@ -38,8 +38,7 @@ Sample GeoJSON Data:<br>
 
 GUI Interface:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+![alt text](https://raw.githubusercontent.com/fitzpk/Python-Tkinter-Apps/images/geocalc-gui.png)
 
 # App #2 - GeoJSON Point-in-Sample Area Analyzer
 
