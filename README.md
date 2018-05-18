@@ -8,13 +8,13 @@ Using a Tkinter GUI, this application takes GeoJSON polygon data (Features or Fe
 Sample GeoJSON Data:<br>
 `{`<br>
   `"type": "FeatureCollection",`<br>
-  `"features": [
-    {
-      "type": "Feature",
-      "properties": {
-	"name": "Wyoming"
-	},
-      "geometry": {
+  `"features": [`<br>
+    `{`<br>
+     ` "type": "Feature",`<br>
+      `"properties": {`<br>
+	`"name": "Wyoming"`<br>
+	`},`<br>
+      `"geometry": {
         "type": "Polygon",
 	"coordinates":[[
 	[-109.080842,45.002073],
