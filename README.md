@@ -47,5 +47,7 @@ Using a Tkinter GUI, this application takes GeoJSON polygon data (Features or Fe
 
 # App #2 - GeoJSON Point-in-Sample Area Analyzer
 
+Using a Tkinter GUI, this application prompts the User to define a simple square or rectangular sample area by entering coordinates for the Southwest and Northeast limits of the area. It then takes GeoJSON point data (Features or Feature Collections) and determines whether or not the point features are located within the sample area. The option to export the results is also provided.
+
 Sample GeoJSON Data:
 `Stuff Here`
