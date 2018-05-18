@@ -14,9 +14,9 @@ Sample GeoJSON Data:<br>
       `"properties": {`<br>
 	`"name": "Wyoming"`<br>
 	`},`<br>
-      `"geometry": {
-        "type": "Polygon",
-	"coordinates":[[
+      `"geometry": {`<br>
+        `"type": "Polygon",`<br>
+	`"coordinates":[[
 	[-109.080842,45.002073],
 	[-105.91517,45.002073],
 	[-104.058488,44.996596],
